@@ -1,0 +1,13 @@
+# Ignore all video files in this directory
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.webm
+# Except this file
+!.gitignore
+# Keep archive directory
+!archive/
+!archive/*
